@@ -6,6 +6,7 @@
   "dependencies": {
     "async": "^2.1.2",
     "bittrex-api": "^0.1.13",
+    "imap": "^0.8.19",
     "mongoose": "^4.6.5",
     "util": "^0.10.3"
   },
